@@ -2,7 +2,7 @@
 
 ### Versión node
 
-Para asegurarte de la compatibilidad, asegúrate de estar utilizando Node.js versión 20 o superior. Puedes verificar la versión de Node.js ejecutando el siguiente comando en tu terminal:
+Para asegurarte de la compatibilidad, asegúrate de estar utilizando Node versión 20 o superior. Puedes verificar la versión de Node.js ejecutando el siguiente comando en tu terminal:
 
 ```
 node -v
